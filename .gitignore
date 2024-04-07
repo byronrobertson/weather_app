@@ -1,3 +1,5 @@
+# ignore ALL files in ANY directory named temp
+lib/secrets.dart
 # Miscellaneous
 *.class
 *.log
